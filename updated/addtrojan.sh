@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/liz_mine
+# My Telegram : https://t.me/Wahid31N
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -70,4 +70,4 @@ echo -e "Link Trojan WS  : ${trojanlinkws}"
 echo -e "=========================="
 echo -e "Link Trojan GRPC : ${trojanlinkgrpc}"
 echo -e "=========================="
-echo -e "Script Mod By LIZ"
+echo -e "Script Mod By WAHID31"
