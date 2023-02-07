@@ -130,5 +130,5 @@ fi
 # echo -e " Fail2ban                :$RED [Error] $NC"
 # fi
 echo -e "$BLUE━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━$NC"
-echo -e "$BRED----------- Mod By LIZSVR -----------"
+echo -e "$BRED----------- Mod By WAHID31 -----------"
 echo -e "$BLUE━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━$NC"
