@@ -28,7 +28,7 @@ echo -e "$BLUE╠➣$NC 6$NC. Exit                        $BLUE      ║ "
 echo -e "$BLUE║---------------------------------------║"
 echo -e "$BLUE╠➣$NC Original Script by SL                $BLUE║"
 echo -e "$BLUE╠➣$NC Mod Menu by LIZSVR                   $BLUE║"
-echo -e "$BLUE╠➣$NC Telegram https://t.me/liz_mine       $BLUE║"
+echo -e "$BLUE╠➣$NC Telegram https://t.me/WAHID31N       $BLUE║"
 echo -e "$BLUE╚═══════════════════════════════════════╝$NC"  
 read -p "Select From Options [ 1 - 6 ] : " menu
 echo -e ""
