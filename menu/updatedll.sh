@@ -30,12 +30,12 @@ else
 fi
 # ==========================================
 # link hosting kalian
-akbarvpn="https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu"
-akbarvpnn="https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/updated"
-akbarvpnnn="https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/updated"
+akbarvpn="https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu"
+akbarvpnn="https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/updated"
+akbarvpnnn="https://raw.githubusercontent.com/W-SET/VPS-SSH/main/updated"
 cd
 rm -r updatedll
-wget -O updatedll "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/updatedll.sh"
+wget -O updatedll "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/updatedll.sh"
 rm -rf updatedll
 
 # hapus
@@ -47,17 +47,17 @@ rm -r updatedll
 #
 cd /usr/bin
 # update by SL
-wget -O xmenu "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/xmenu.sh"
-wget -O add-akun "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/add-akun.sh"
-wget -O updatedll "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/updatedll.sh"
-wget -O add-akun "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/add-akun.sh"
-wget -O delete-akun "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/delete-akun.sh"
-wget -O certv2ray "https://raw.githubusercontent.com/fisabiliyusri/Mantap/main/xray/certv2ray.sh"
-wget -O restart-xray "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/restart-xray.sh"
-wget -O xmenu "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/xmenu.sh"
-wget -O auto-pointing "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/auto-pointing.sh"
-wget -O cek-port "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/cek-port.sh"
-wget -O xmenu "https://raw.githubusercontent.com/lizsvr/XRAY-MULTI/main/menu/xmenu.sh"
+wget -O xmenu "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/xmenu.sh"
+wget -O add-akun "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/add-akun.sh"
+wget -O updatedll "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/updatedll.sh"
+wget -O add-akun "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/add-akun.sh"
+wget -O delete-akun "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/delete-akun.sh"
+wget -O certv2ray "https://raw.githubusercontent.com/W-SET/VPS-SSH/Mantap/main/xray/certv2ray.sh"
+wget -O restart-xray "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/restart-xray.sh"
+wget -O xmenu "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/xmenu.sh"
+wget -O auto-pointing "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/auto-pointing.sh"
+wget -O cek-port "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/cek-port.sh"
+wget -O xmenu "https://raw.githubusercontent.com/W-SET/VPS-SSH/main/menu/xmenu.sh"
 # Update menu
 wget -O menu "${akbarvpnn}/menu.sh"
 wget -O msettings "${akbarvpnn}/msetting.sh"
