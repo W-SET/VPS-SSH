@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/liz_mine
+# My Telegram : https://t.me/Wahid31N
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -59,7 +59,7 @@ cat>/etc/xray/vmess-$user-tls.json<<EOF
       "id": "${uuid}",
       "aid": "0",
       "net": "ws",
-      "path": "/xrayvws",
+      "path": "/worryfree",
       "type": "none",
       "host": "",
       "tls": "tls"
@@ -74,7 +74,7 @@ cat>/etc/xray/vmess-$user-nontls.json<<EOF
       "id": "${uuid}",
       "aid": "0",
       "net": "ws",
-      "path": "/xrayvws",
+      "path": "/worryfree",
       "type": "none",
       "host": "",
       "tls": "none"
@@ -118,7 +118,7 @@ echo -e "User ID     : ${uuid}"
 echo -e "Alter ID    : 0"
 echo -e "Security    : auto"
 echo -e "Network     : ws"
-echo -e "Path        : /xrayvws"
+echo -e "Path        : /worryfree"
 echo -e "Path GRPC   : vmess-grpc"
 echo -e "Created     : $hariini"
 echo -e "Expired     : $exp"
