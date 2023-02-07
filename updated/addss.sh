@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/liz_mine
+# My Telegram : https://t.me/Wahid31N
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -298,4 +298,4 @@ echo -e "Link TLS    : http://${domain}:89/ss-ws-$user.txt"
 echo -e "========================="
 echo -e "Link GRPC : http://${domain}:89/ss-grpc-$user.txt"
 echo -e "========================="
-echo -e "Script Mod By LIZSVR"
+echo -e "Script Mod By WAHID31"
