@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/liz_mine
+# My Telegram : https://t.me/Wahid31N
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -66,7 +66,7 @@ echo -e "Port No TLS : $nontls"
 echo -e "User ID     : ${uuid}"
 echo -e "Encryption  : none"
 echo -e "Network     : ws"
-echo -e "Path        : /xrayws"
+echo -e "Path        : /worryfree"
 echo -e "Path GRPC   : vless-grpc "
 echo -e "Created     : $hariini"
 echo -e "Expired     : $exp"
